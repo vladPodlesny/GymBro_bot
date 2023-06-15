@@ -1,0 +1,18 @@
+{
+    "predictions": [
+        {
+            "x": 478,
+            "y": 504,
+            "width": 935,
+            "height": 968,
+            "confidence": 0.7486301064491272,
+            "class": "chest-fly",
+            "image_path": "AgACAgQAAxkBAAM9ZItRt3D8DAMnnm00HrNB8ZdYO3YAAma_MRsuZWBQye-o64MN8zABAAMCAAN5AAMvBA.png",
+            "prediction_type": "ObjectDetectionModel"
+        }
+    ],
+    "image": {
+        "width": "1000",
+        "height": "1000"
+    }
+}
